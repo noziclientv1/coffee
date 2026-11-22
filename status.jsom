@@ -1,4 +1,5 @@
- "enabled": true,
+{
+"enabled": true,
   "min_version": "1.0.3",
   "message": "Esta version de Coffee fue desactivada.",
   "whitelist_enabled": true,
