@@ -5,8 +5,8 @@
   "whitelist_enabled": true,
   "whitelisted_hwids": [
     {
-      "hwid": " ",
-      "user": "tu_usuario"
+      "hwid": "35C4AA95-C587A80B-74B67E8E-4686257D",
+      "user": "waxedge"
     }
   ],
   "banned_hwids": []
