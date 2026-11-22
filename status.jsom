@@ -1,6 +1,9 @@
-{
-  "enabled": true,
+ "enabled": true,
   "min_version": "1.0.3",
   "message": "Esta version de Coffee fue desactivada.",
-  "banned_hwids": ["71C34387-B3CC00D7-1AC80866-FB18B31A"]
+  "whitelist_enabled": true,
+  "whitelisted_hwids": [
+    "PON-AQUI-EL-HWID-AUTORIZADO"
+  ],
+  "banned_hwids": []
 }
