@@ -1,6 +1,6 @@
 {
   "enabled": false,
-  "min_version": "1.0.3",
+  "min_version": "1.0.4",
   "message": "Esta version de Coffee fue desactivada.",
   "whitelist_enabled": true,
   "whitelisted_hwids": [
